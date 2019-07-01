@@ -1,0 +1,12 @@
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\bin\Release\PORobo.exe.config
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\bin\Release\PORobo.exe
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\bin\Release\PORobo.pdb
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\bin\Release\NAudio.dll
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\bin\Release\NAudio.xml
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Release\PORobo.Form1.resources
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Release\PORobo.Properties.Resources.resources
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Release\PORobo.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Release\PORobo.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Release\PORobo.exe
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Release\PORobo.pdb
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Release\PORobo.csprojResolveAssemblyReference.cache

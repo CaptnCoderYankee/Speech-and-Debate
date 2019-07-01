@@ -1,0 +1,22 @@
+C:\Users\William\AppData\Local\Temporary Projects\PORobo\bin\Debug\PORobo.exe.config
+C:\Users\William\AppData\Local\Temporary Projects\PORobo\bin\Debug\PORobo.exe
+C:\Users\William\AppData\Local\Temporary Projects\PORobo\bin\Debug\PORobo.pdb
+C:\Users\William\AppData\Local\Temporary Projects\PORobo\obj\Debug\PORobo.csprojResolveAssemblyReference.cache
+C:\Users\William\AppData\Local\Temporary Projects\PORobo\obj\Debug\PORobo.Form1.resources
+C:\Users\William\AppData\Local\Temporary Projects\PORobo\obj\Debug\PORobo.Properties.Resources.resources
+C:\Users\William\AppData\Local\Temporary Projects\PORobo\obj\Debug\PORobo.csproj.GenerateResource.Cache
+C:\Users\William\AppData\Local\Temporary Projects\PORobo\obj\Debug\PORobo.csproj.CoreCompileInputs.cache
+C:\Users\William\AppData\Local\Temporary Projects\PORobo\obj\Debug\PORobo.exe
+C:\Users\William\AppData\Local\Temporary Projects\PORobo\obj\Debug\PORobo.pdb
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\bin\Debug\PORobo.exe.config
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\bin\Debug\PORobo.exe
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\bin\Debug\PORobo.pdb
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Debug\PORobo.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Debug\PORobo.Form1.resources
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Debug\PORobo.Properties.Resources.resources
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Debug\PORobo.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Debug\PORobo.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Debug\PORobo.exe
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\obj\Debug\PORobo.pdb
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\bin\Debug\NAudio.dll
+d:\Documents\Visual Studio 2017\Projects\PORobo\PORobo\bin\Debug\NAudio.xml
