@@ -1,0 +1,15 @@
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\bin\Debug\PFPro.exe.config
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\bin\Debug\PFPro.exe
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\bin\Debug\PFPro.pdb
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\obj\Debug\PFPro.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\obj\Debug\WindowsFormsApp1.Form1.resources
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\obj\Debug\PFPro.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\obj\Debug\PFPro.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\obj\Debug\PFPro.exe
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\obj\Debug\PFPro.pdb
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\obj\Debug\WindowsFormsApp1.Form2.resources
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\bin\Debug\MetadataExtractor.dll
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\bin\Debug\XmpCore.dll
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\bin\Debug\MetadataExtractor.xml
+d:\Documents\Visual Studio 2017\Projects\PFPro\PFPro\bin\Debug\XmpCore.xml
